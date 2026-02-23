@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+*.pptx
+*.pdf
+
+
+# Spark / Hadoop output
+results/
+results_hdfs/
+results_local/
+data/
+*.parquet
+*.tsv
+*.osm
+*.pbf
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+.github/
+*.pptx
